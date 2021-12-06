@@ -3,3 +3,6 @@ testando a linha paralela
 incluindo alterações para teste
 
 incluindo 1 alteração para avaliar conflito com o Git Hub.
+
+alteração de teste 02
+
